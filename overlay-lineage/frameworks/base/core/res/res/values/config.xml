@@ -11,11 +11,11 @@
      limitations under the License.
 -->
 
-<resources>
-    <bool name="config_deviceHasVariableButtonBrightness">true</bool>
-    <!-- These resources are around just to allow their values to be customized
+<!-- These resources are around just to allow their values to be customized
      for different hardware and product builds.  Do not translate. -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <bool name="config_deviceHasVariableButtonBrightness">true</bool>
 
     <!-- Control the behavior when the user long presses the app switch button.
             0 - Nothing
